@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.d1f5b0d3.chunk.js",
-    "main.js.map": "/static/js/main.d1f5b0d3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.860b1a0e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.860b1a0e.js.map",
-    "static/js/2.1c254b79.chunk.js": "/static/js/2.1c254b79.chunk.js",
-    "static/js/2.1c254b79.chunk.js.map": "/static/js/2.1c254b79.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70989c91ddd6a74694b2dd045a562969.js": "/precache-manifest.70989c91ddd6a74694b2dd045a562969.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.1c254b79.chunk.js.LICENSE.txt": "/static/js/2.1c254b79.chunk.js.LICENSE.txt"
+    "main.js": "/kawal-covid19/static/js/main.5dbe21a4.chunk.js",
+    "main.js.map": "/kawal-covid19/static/js/main.5dbe21a4.chunk.js.map",
+    "runtime-main.js": "/kawal-covid19/static/js/runtime-main.404487ff.js",
+    "runtime-main.js.map": "/kawal-covid19/static/js/runtime-main.404487ff.js.map",
+    "static/js/2.1c254b79.chunk.js": "/kawal-covid19/static/js/2.1c254b79.chunk.js",
+    "static/js/2.1c254b79.chunk.js.map": "/kawal-covid19/static/js/2.1c254b79.chunk.js.map",
+    "index.html": "/kawal-covid19/index.html",
+    "precache-manifest.7fa89f1e0cd4806626d24294aa2dc933.js": "/kawal-covid19/precache-manifest.7fa89f1e0cd4806626d24294aa2dc933.js",
+    "service-worker.js": "/kawal-covid19/service-worker.js",
+    "static/js/2.1c254b79.chunk.js.LICENSE.txt": "/kawal-covid19/static/js/2.1c254b79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.860b1a0e.js",
+    "static/js/runtime-main.404487ff.js",
     "static/js/2.1c254b79.chunk.js",
-    "static/js/main.d1f5b0d3.chunk.js"
+    "static/js/main.5dbe21a4.chunk.js"
   ]
 }
